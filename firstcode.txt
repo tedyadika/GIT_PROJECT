@@ -1,2 +1,4 @@
 hello i am learning git--------------
 i have a new line
+take 
+give
